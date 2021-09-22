@@ -1,5 +1,9 @@
 ### Gradle template
 .gradle
+gradle
+build.gradle
+gradlew
+gradlew.bat
 **/build/
 !src/**/build/
 
